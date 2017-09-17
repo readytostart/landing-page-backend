@@ -1,0 +1,9 @@
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Release\netcoreapp1.0\StartToReadyLandingPage.deps.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Release\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Release\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.dev.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Release\netcoreapp1.0\StartToReadyLandingPage.dll
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Release\netcoreapp1.0\StartToReadyLandingPage.pdb
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Release\netcoreapp1.0\StartToReadyLandingPage.csprojResolveAssemblyReference.cache
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Release\netcoreapp1.0\StartToReadyLandingPage.AssemblyInfo.cs
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Release\netcoreapp1.0\StartToReadyLandingPage.dll
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Release\netcoreapp1.0\StartToReadyLandingPage.pdb
