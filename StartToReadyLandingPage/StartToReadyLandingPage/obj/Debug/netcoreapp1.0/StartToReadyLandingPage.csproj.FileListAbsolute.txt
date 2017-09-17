@@ -1,0 +1,9 @@
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.deps.json
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.json
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.dev.json
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.dll
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.AssemblyInfo.cs
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.pdb
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.dll
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.pdb
+c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.csprojResolveAssemblyReference.cache
