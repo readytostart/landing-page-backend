@@ -7,3 +7,12 @@ c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandin
 c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.dll
 c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.pdb
 c:\users\daniel.martins\documents\visual studio 2017\Projects\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.csprojResolveAssemblyReference.cache
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.deps.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.runtimeconfig.dev.json
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.dll
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\bin\Debug\netcoreapp1.0\StartToReadyLandingPage.pdb
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.csprojResolveAssemblyReference.cache
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.AssemblyInfo.cs
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.dll
+C:\Users\daniel.martins\Documents\GitHub\landing-page-backend\StartToReadyLandingPage\StartToReadyLandingPage\obj\Debug\netcoreapp1.0\StartToReadyLandingPage.pdb

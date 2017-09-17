@@ -10253,10 +10253,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.martins\\documents\\visual studio 2017\\Projects\\StartToReadyLandingPage\\StartToReadyLandingPage\\StartToReadyLandingPage.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.martins\\Documents\\GitHub\\landing-page-backend\\StartToReadyLandingPage\\StartToReadyLandingPage\\StartToReadyLandingPage.csproj",
       "projectName": "StartToReadyLandingPage",
-      "projectPath": "C:\\Users\\daniel.martins\\documents\\visual studio 2017\\Projects\\StartToReadyLandingPage\\StartToReadyLandingPage\\StartToReadyLandingPage.csproj",
-      "outputPath": "C:\\Users\\daniel.martins\\documents\\visual studio 2017\\Projects\\StartToReadyLandingPage\\StartToReadyLandingPage\\obj\\",
+      "projectPath": "C:\\Users\\daniel.martins\\Documents\\GitHub\\landing-page-backend\\StartToReadyLandingPage\\StartToReadyLandingPage\\StartToReadyLandingPage.csproj",
+      "outputPath": "C:\\Users\\daniel.martins\\Documents\\GitHub\\landing-page-backend\\StartToReadyLandingPage\\StartToReadyLandingPage\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
